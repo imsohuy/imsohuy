@@ -41,17 +41,18 @@ while(dev.isCoding())
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
+💻 GitHub Profile Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
-  <img width="40.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
+   <img width="40.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
 </p>
 
-## 🔥 Streak stats
+🔥 Streak stats
 <p align="center">
   <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=imsohuy&theme=tokyonight"/>
 </p>
 
-## 📊 Github stats
+📊 Github stats
 <p align="center">
   <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=imsohuy&theme=react-dark"/>
 </p>
