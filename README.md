@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm <a href="https://github.com/imsohuy">Huy</a>!</h1>
-<h3 align="center">A developer from Vietnam.</h3>
+<h3 align="center">For-fun-developer from Vietnam.</h3>
 
 ```js
 const name = 'Huy';
@@ -13,6 +13,7 @@ while(dev.isCoding())
   dev.sleep();
 }
 ```
+
 <p align="center">Check out my <a href="https://github.com/imsohuy">portfolio website</a></p>
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
