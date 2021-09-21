@@ -9,7 +9,7 @@ Developer dev = new Developer(name);
 while(dev.isCoding())
 {
   dev.doNothing();
-  dev.trade();
+  dev.openSpotify();
   dev.sleep();
 }
 ```
