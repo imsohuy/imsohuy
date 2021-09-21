@@ -1,9 +1,11 @@
 <h1 align="center">Hi there👋, I'm <a href="https://github.com/imsohuy">Huy</a>!</h1>
 <h3 align="center">For-fun-developer from Vietnam</h3>
 <p align="center">
-  <img className="MyIcon" width="50px" height="50px" src="https://i.pinimg.com/736x/54/12/11/541211d3d6faf98854cb9b3da2373c4e.jpg">
-  <img className="MyIcon" width="50px" height="50px" src="https://i.pinimg.com/originals/57/64/32/576432ab92e270631eaab49f5a78f355.png">
-  <img className="MyIcon" width="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsCP4DoOEZNynDH8QHp5f9Ooe2Z-WnsUIUA&usqp=CAU">
+  <img width="50px" height="50px" src="https://i.pinimg.com/736x/54/12/11/541211d3d6faf98854cb9b3da2373c4e.jpg">
+  <img width="50px" height="50px" src="https://i.pinimg.com/originals/57/64/32/576432ab92e270631eaab49f5a78f355.png">
+  <img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/vi/b/b7/Nyan_Cat_250px.png">
+  <img width="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbsCP4DoOEZNynDH8QHp5f9Ooe2Z-WnsUIUA&usqp=CAU">
+  <img width="50px" height="50px" src="https://i.pinimg.com/originals/08/f0/ec/08f0ec9f38f376d384d9ddafd3e574d2.jpg">
 </p>
 
 
