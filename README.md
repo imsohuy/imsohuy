@@ -45,8 +45,12 @@
 <br/>
 <diV>
   <div align="center">
-     <img height="200" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
-     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
+     <a href="#">
+       <img height="200" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
+     </a>
+     <a href="#"> 
+       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
+    </a>
   </div>
   <br/>
   <div align="center">
