@@ -41,18 +41,19 @@
   <img src="https://profile-counter.glitch.me/imsohuy/count.svg" />
 </p>
 
-💻 GitHub Profile Stats
-<p align="center">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
-   <img width="40.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
-</p>
-
-🔥 Streak stats
-<p align="center">
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=imsohuy&theme=tokyonight"/>
-</p>
-
-📊 Github stats
-<p align="center">
-  <img width="70%" src="https://activity-graph.herokuapp.com/graph?username=imsohuy&theme=react-dark"/>
-</p>
+<h2>📃 Github Stats</h2>
+<br/>
+<diV>
+  <div align="center">
+     <img height="200" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
+     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
+  </div>
+  <br/>
+  <div align="center">
+    <img height="200" src="http://github-readme-streak-stats.herokuapp.com?user=imsohuy&theme=tokyonight"/>
+  </div>
+  <br/>
+  <div>
+    <img alt="Imsohuy's Github Stats"  src="https://activity-graph.herokuapp.com/graph?username=imsohuy&theme=react-dark&hide_border=true"/>
+  </div>
+</div>
