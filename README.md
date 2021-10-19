@@ -46,10 +46,10 @@
 <diV>
   <div align="center">
      <a href="#">
-       <img height="150" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=react-dark" />
+       <img height="150" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
      </a>
      <a href="#"> 
-       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=react-dark" />
+       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
     </a>
     <br/>
   </div>
@@ -59,6 +59,6 @@
   </div>
   <br/>
   <div>
-    <img alt="Imsohuy's Github Stats"  src="https://activity-graph.herokuapp.com/graph?username=imsohuy&theme=react-dark&hide_border=true"/>
+    <img alt="Imsohuy's Github Stats"  src="https://activity-graph.herokuapp.com/graph?username=imsohuy&theme=material-palenight&hide_border=true"/>
   </div>
 </div>
