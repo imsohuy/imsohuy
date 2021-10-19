@@ -46,10 +46,10 @@
 <diV>
   <div align="center">
      <a href="#">
-       <img height="200" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=tokyonight" />
+       <img height="150" src="https://github-readme-stats.vercel.app/api?username=imsohuy&show_icons=true&theme=react-dark" />
      </a>
      <a href="#"> 
-       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=tokyonight" />
+       <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsohuy&layout=compact&theme=react-dark" />
     </a>
     <br/>
   </div>
