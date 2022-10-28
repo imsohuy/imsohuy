@@ -1,6 +1,10 @@
 <h1 align="center">Hi there👋, I'm <a href="https://github.com/imsohuy">Huy</a>!</h1>
 <h3 align="center">Mercenary in Computer Science.</h3>
-<i align="center">“Nobody panics when things go “according to plan.” Even if the plan is horrifying!”</i>
+<div align="center">
+  <i>“Nobody panics when things go “according to plan.” Even if the plan is horrifying!”</i>
+</div>
+
+
 <!-- <p align="center">
   <img width="50px" height="50px" src="https://i.pinimg.com/736x/54/12/11/541211d3d6faf98854cb9b3da2373c4e.jpg">
   <img width="50px" height="50px" src="https://i.pinimg.com/originals/57/64/32/576432ab92e270631eaab49f5a78f355.png">
