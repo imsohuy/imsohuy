@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm <a href="https://github.com/imsohuy">Huy</a>!</h1>
 <h3 align="center">Mercenary in Computer Science.</h3>
 <div align="center">
-  <i>“You either die a hero, or live long enough to see yourself become the villain.”</i>
+  <i>“You either die a hero, or live long enough to see yourself become the villain!”</i>
 </div>
 
 
