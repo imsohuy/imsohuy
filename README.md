@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm <a href="https://github.com/imsohuy">Huy</a>!</h1>
 <h3 align="center">Mercenary in Computer Science.</h3>
 <div align="center">
-  <i>“There is no patch to human stupidity”</i>
+  <i>“The best revenge is not to be like your enemy.”</i>
 </div>
 
 
